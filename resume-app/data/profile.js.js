@@ -1,7 +1,7 @@
 const profileData = {
   title: "Resume",
   name: "Samuel Adu Boateng",
-  sub_title: "System Administrator, CyberSecurrity and DevOps Engineer",
+  sub_title: "System Administrator, and DevOps Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
     intro: `Junior Software Engineer with 1 years of FullStack development experience. Expert in building high-performance UI and seamless UX. Experienced in leading projects, migrating legacy systems, and creating reusable components. Skilled in A/B testing, cross-platform compatibility, and responsive design. Effective communicator and collaborator dedicated to continuous learning and innovation..`,
